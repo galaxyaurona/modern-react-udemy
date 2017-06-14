@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+# Introduction
+This is a repository to learn- test out and play with the React ecosystem
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is an Blogpost CRUD app based on Udemy course.
+The backend is connected to a public API on heroku
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+You can clone this repo gitory, run 
+```sh
+$ npm install
+$ npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+The app is served at localhost:8080
